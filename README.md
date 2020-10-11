@@ -3,13 +3,18 @@ A simple calculator using flutter
 
 # Links
 
+## Git
+ - [Tutorial](https://git-scm.com/docs/gittutorial)
+ - [Reference](https://git-scm.com/docs)
+ - [Book](https://git-scm.com/book/en/v2)
+
 ## Dart
  - [Guides](https://dart.dev/guides)
  - [Language Tour](https://dart.dev/guides/language/language-tour)
 
 ## Flutter
  - [Documentation](https://flutter.dev/docs)
- - [Widget of the Week Playlist](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+ - [Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
  - [User Interface](https://flutter.dev/docs/development/ui/widgets-intro)
  - [StatelessWidget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
  - [StatefulWidget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)
